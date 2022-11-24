@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: ReferenceImageLibrary
   m_EditorClassIdentifier: 
-  m_GuidLow: 0
-  m_GuidHigh: 0
+  m_GuidLow: 4961626024529972133
+  m_GuidHigh: 3549995287887448197
   m_DataStore:
     m_Storage: []
   m_Images:
@@ -21,8 +21,8 @@ MonoBehaviour:
       m_GuidLow: 4889737849813280742
       m_GuidHigh: 14758827955805623460
     m_SerializedTextureGuid:
-      m_GuidLow: 613810072700599188
-      m_GuidHigh: 5612745540205795432
+      m_GuidLow: 12940245954554358304
+      m_GuidHigh: 17157122490317212553
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 2Perros
