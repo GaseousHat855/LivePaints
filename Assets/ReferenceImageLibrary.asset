@@ -27,3 +27,13 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: 2Perros
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5377256195376211601
+      m_GuidHigh: 597723997140857475
+    m_SerializedTextureGuid:
+      m_GuidLow: 3851849039484644300
+      m_GuidHigh: 18345705000544754232
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: VatoC
+    m_Texture: {fileID: 0}
