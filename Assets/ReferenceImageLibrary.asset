@@ -25,7 +25,7 @@ MonoBehaviour:
       m_GuidHigh: 17157122490317212553
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: 2Perros
+    m_Name: Visoto-0006
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5377256195376211601
@@ -56,4 +56,24 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Visoto-0007
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4884657692144268161
+      m_GuidHigh: 12101413847587401634
+    m_SerializedTextureGuid:
+      m_GuidLow: 4243583897016286431
+      m_GuidHigh: 15033949489229702968
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Visoto-0005
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4681693067663307281
+      m_GuidHigh: 15816718172534574485
+    m_SerializedTextureGuid:
+      m_GuidLow: 226563836758693958
+      m_GuidHigh: 9232631491588971291
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Visoto-0002
     m_Texture: {fileID: 0}
