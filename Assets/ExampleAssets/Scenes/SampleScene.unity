@@ -314,6 +314,7 @@ MonoBehaviour:
   ArPrefabs:
   - {fileID: 4438983440322717186, guid: 3a0f844aefe4a124d8e898da9604cc27, type: 3}
   - {fileID: 5500295947833022594, guid: 242bd5ae914f4fa49835657028cc7020, type: 3}
+  - {fileID: 3902200732943003736, guid: a4a93865d1be75c45a84e6d413bb8000, type: 3}
 --- !u!114 &388525033
 MonoBehaviour:
   m_ObjectHideFlags: 0
