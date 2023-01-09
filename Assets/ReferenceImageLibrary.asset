@@ -47,3 +47,13 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: Visoto-00003
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5373676232064691934
+      m_GuidHigh: 17848931710259623861
+    m_SerializedTextureGuid:
+      m_GuidLow: 7215953267588437709
+      m_GuidHigh: 2028924919679466811
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Visoto-0007
+    m_Texture: {fileID: 0}
