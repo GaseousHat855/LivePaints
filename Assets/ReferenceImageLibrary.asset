@@ -33,8 +33,8 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 3851849039484644300
       m_GuidHigh: 18345705000544754232
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+    m_Size: {x: 43, y: 100.270905}
+    m_SpecifySize: 1
     m_Name: VatoC
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
@@ -43,8 +43,8 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 893043277528526471
       m_GuidHigh: 16696083328956390043
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+    m_Size: {x: 100, y: 79.150826}
+    m_SpecifySize: 1
     m_Name: Visoto-00003
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
